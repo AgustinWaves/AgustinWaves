@@ -3,7 +3,7 @@
 
 ## I am a Front-End Developer with a love for design and human behavior.
 When I'm not programming you can find me bouldering, making music or reading.
-I enjoy scientific articles, I'm passionate about Neuroscience, A.I., Philosophy and how the human brain experiences reality. 
+I'm passionate about Neuroscience, A.I., Philosophy and how the human brain experiences reality. 
 
 Skills: REACT / JS / HTML / CSS / Figma
 

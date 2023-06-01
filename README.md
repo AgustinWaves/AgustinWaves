@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C4E16AQEz4Q_DneTAbg/profile-displaybackgroundimage-shrink_350_1400/0/1653133888043?e=1660176000&v=beta&t=v965QZHOrpsImYHZ-Zv92u9PUqG7rBveSLZWFEKDBqE)
+
 # Hi there 👋, my name is Agustin
 
 ## I am a Software Developer with a love for design and human behavior.

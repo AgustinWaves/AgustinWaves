@@ -5,8 +5,8 @@
 When I'm not programming you can find me bouldering, making music or reading.
 I'm passionate about Neuroscience, A.I., Philosophy and how the human brain experiences reality. 
 
-Skills: REACT / JS / HTML / CSS / Figma
+Skills: REACT / TS / JS / NextJS / HTML / CSS / Figma
 
-- 🔭 I’m working at CarbonStack GmbH designing and developing their Web tool and also working on a Hiking App in my free time.  
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
+- 🔭 I’m currenlty working at Sennheiser designing and developing their cloud platform.  
+
  
